@@ -47,5 +47,12 @@
     "status": "Beta",
     "icon": "",
     "link": "https://matjipfairy.netlify.app/"
+  },
+  {
+    "title": "[토스미니앱] 팝업라이브",
+    "description": "서울 성수동을 비롯한 다양한 지역의 팝업 스토어 행사 정보와 혼잡도 정보를 제공합니다.",
+    "status": "Active",
+    "icon": "",
+    "link": "https://minion.toss.im/31gU4fKl"
   }
 ]
